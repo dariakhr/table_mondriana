@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+}
+
+table {
+  border-spacing: 0px;
+  border-collapse: collapse;
+}
+
+td {
+  border: 10px solid black;
+  background: #fff;
+  height: 75px;
+  width: 75px;
+}
+
+.bg_red {
+  background-color: red;
+}
+
+.bg_blue {
+  background-color: blue;
+}
+
+.bg_yellow {
+  background-color: yellow;
+}
+
+.bg_black {
+  background-color: black;
+}
+
+.w300 {
+  width: 300px;
+}
+
+.w150 {
+  width: 150px;
+}
+
+.w50 {
+  width: 50px;
+}
+
+.w25 {
+  width: 25px;
+}
+
+.h300 {
+  height: 300px;
+}
+
+.h150 {
+  height: 150px;
+}
+
+.h60 {
+  height: 60px;
+}
+
+.h50 { 
+  height: 50px;
+}
